@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\vihaa\source\repos\Codeforces - Qingshan Loves Strings 2\Source.cpp(37,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\vihaa\source\repos\Codeforces - Qingshan Loves Strings 2\Source.cpp(16,8): warning C4101: 'x': unreferenced local variable
+  Codeforces - Qingshan Loves Strings 2.vcxproj -> C:\Users\vihaa\source\repos\Codeforces - Qingshan Loves Strings 2\x64\Debug\Codeforces - Qingshan Loves Strings 2.exe

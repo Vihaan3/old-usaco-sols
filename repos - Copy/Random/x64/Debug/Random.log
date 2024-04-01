@@ -1,0 +1,10 @@
+﻿  Math.cpp
+C:\Users\vihaa\source\repos\Random\Math.cpp(44,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(45,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(79,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(80,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(91,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(95,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(99,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\Random\Math.cpp(103,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Random.vcxproj -> C:\Users\vihaa\source\repos\Random\x64\Debug\Random.exe

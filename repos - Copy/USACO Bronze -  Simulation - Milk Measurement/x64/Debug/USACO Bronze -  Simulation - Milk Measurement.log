@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(16,41): error C2365: 'log': redefinition; previous definition was 'function'
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(34,8): error C2563: mismatch in formal parameter list
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(35,8): error C2563: mismatch in formal parameter list
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(42,19): error C2563: mismatch in formal parameter list
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(42,42): error C2563: mismatch in formal parameter list
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(59,34): error C2563: mismatch in formal parameter list
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(59,14): error C2672: 'std::max': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(51,26): message : could be '_Ty std::max(std::initializer_list<_Elem>)'
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(59,14): message : '_Ty std::max(std::initializer_list<_Elem>)': expects 1 arguments - 2 provided
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(48,26): message : or       '_Ty std::max(std::initializer_list<_Elem>,_Pr)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(41,6): message : or       'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(31,33): message : or       'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)'
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(59,14): message : 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': expects 3 arguments - 2 provided
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(63,6): error C2563: mismatch in formal parameter list
+C:\Users\vihaa\source\repos\USACO Bronze -  Simulation - Milk Measurement\Source.cpp(65,37): error C2563: mismatch in formal parameter list

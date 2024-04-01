@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vihaa\\source\\repos\\USACO Silver - Painting the Barn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B256FBF6-0C20-40DE-972A-D090E9C63F43}|USACO Silver - Painting the Barn.vcxproj|C:\\Users\\vihaa\\source\\repos\\USACO Silver - Painting the Barn\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B256FBF6-0C20-40DE-972A-D090E9C63F43}|USACO Silver - Painting the Barn.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\vihaa\\source\\repos\\USACO Silver - Painting the Barn\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\vihaa\\source\\repos\\USACO Silver - Painting the Barn\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T22:42:16.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

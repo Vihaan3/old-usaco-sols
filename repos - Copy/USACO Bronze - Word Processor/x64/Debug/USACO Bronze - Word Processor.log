@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vihaa\source\repos\USACO Bronze - Word Processor\Source.cpp(20,25): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vihaa\source\repos\USACO Bronze - Word Processor\Source.cpp(27,25): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  USACO Bronze - Word Processor.vcxproj -> C:\Users\vihaa\source\repos\USACO Bronze - Word Processor\x64\Debug\USACO Bronze - Word Processor.exe

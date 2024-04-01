@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vihaa\\source\\repos\\USACO Silver - Hoof, Paper, Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63604678-F38C-478D-8E97-6B4E0C478C23}|USACO Silver - Hoof, Paper, Scissors.vcxproj|C:\\Users\\vihaa\\source\\repos\\USACO Silver - Hoof, Paper, Scissors\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63604678-F38C-478D-8E97-6B4E0C478C23}|USACO Silver - Hoof, Paper, Scissors.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\vihaa\\source\\repos\\USACO Silver - Hoof, Paper, Scissors\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\vihaa\\source\\repos\\USACO Silver - Hoof, Paper, Scissors\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T23:31:36.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\vihaa\source\repos\USACO Bronze - Intro to Sets and Maps - States and Cities\Source.cpp(24,20): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'

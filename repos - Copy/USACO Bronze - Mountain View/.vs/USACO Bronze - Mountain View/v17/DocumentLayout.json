@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vihaa\\source\\repos\\USACO Bronze - Mountain View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}|USACO Bronze - Mountain View.vcxproj|C:\\Users\\vihaa\\source\\repos\\USACO Bronze - Mountain View\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}|USACO Bronze - Mountain View.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\vihaa\\source\\repos\\USACO Bronze - Mountain View\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\vihaa\\source\\repos\\USACO Bronze - Mountain View\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T20:20:56.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

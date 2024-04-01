@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\Source.cpp(12,28): warning C4101: 'recty1': unreferenced local variable
+C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\Source.cpp(12,44): warning C4101: 'recty2': unreferenced local variable
+C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\Source.cpp(12,20): warning C4101: 'rectx1': unreferenced local variable
+C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\Source.cpp(12,13): warning C4101: 'roomy': unreferenced local variable
+C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\Source.cpp(12,36): warning C4101: 'rectx2': unreferenced local variable
+C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\Source.cpp(12,6): warning C4101: 'roomx': unreferenced local variable
+  USACO Bronze - Rectangle Geometry - Two Tables.vcxproj -> C:\Users\vihaa\source\repos\USACO Bronze - Rectangle Geometry - Two Tables\x64\Debug\USACO Bronze - Rectangle Geometry - Two Tables.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Codeforces - Haunted House", "Codeforces - Haunted House.vcxproj", "{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Debug|x64.ActiveCfg = Debug|x64
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Debug|x64.Build.0 = Debug|x64
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Debug|x86.Build.0 = Debug|Win32
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Release|x64.ActiveCfg = Release|x64
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Release|x64.Build.0 = Release|x64
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Release|x86.ActiveCfg = Release|Win32
+		{6FA7E997-3CF5-4C47-B831-C2F28AFA188B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE89E2A-2D84-4219-9CA2-20C7CBA5D351}
+	EndGlobalSection
+EndGlobal

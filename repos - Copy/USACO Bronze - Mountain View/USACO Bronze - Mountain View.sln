@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USACO Bronze - Mountain View", "USACO Bronze - Mountain View.vcxproj", "{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Debug|x64.ActiveCfg = Debug|x64
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Debug|x64.Build.0 = Debug|x64
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Debug|x86.ActiveCfg = Debug|Win32
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Debug|x86.Build.0 = Debug|Win32
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Release|x64.ActiveCfg = Release|x64
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Release|x64.Build.0 = Release|x64
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Release|x86.ActiveCfg = Release|Win32
+		{15C2F8F4-2D0D-44B5-A27F-3D96AC07407E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD86F63-E241-4BC9-A23D-3407B1A622D6}
+	EndGlobalSection
+EndGlobal

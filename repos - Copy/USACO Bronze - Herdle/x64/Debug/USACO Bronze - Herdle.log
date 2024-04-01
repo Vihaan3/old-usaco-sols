@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\vihaa\source\repos\USACO Bronze - Herdle\Source.cpp(43,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  USACO Bronze - Herdle.vcxproj -> C:\Users\vihaa\source\repos\USACO Bronze - Herdle\x64\Debug\USACO Bronze - Herdle.exe
